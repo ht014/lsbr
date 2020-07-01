@@ -6,4 +6,4 @@ This code is for the paper "Learning from the Scene and Borrowing from the Rich:
    2. Knowledge transform module is implement in the MetaEmbeddingClassifier.
 
 <h4>Acknowledgement </h4>
-This code is based on the nice code of  <a href="https://github.com/rowanz/neural-motifs"> MOTIFS </a> and great thanks to that codes. 
+This code is based on the nice code of  <a href="https://github.com/rowanz/neural-motifs"> MOTIFS </a> and great thanks for Rowanz. 
