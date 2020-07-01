@@ -1,5 +1,5 @@
 # lsbr
-This code is for <a href="https://arxiv.org/abs/2006.07585"> the paper  </a> .
+This code is for <a href="https://arxiv.org/abs/2006.07585"> this paper  </a> .
 
 <h4> Structure </h4>
    1. The scripts director contains the running scripts for variant models. Change the parameter of CUDA_VISIBLE_DEVICES to set  GPU ID for the training.<p>
