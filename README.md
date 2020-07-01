@@ -1,5 +1,5 @@
 # lsbr
-This code is for the paper "Learning from the Scene and Borrowing from the Rich: Tackling the Long Tail in Scene Graph Generation".
+This code is for <a herf="https://arxiv.org/abs/2006.07585"> the paper  </a> .
 
 <h4> Structure </h4>
    1. The scripts director contains the running scripts for variant models. Change the parameter of CUDA_VISIBLE_DEVICES to set  GPU ID for the training.<p>
