@@ -13,12 +13,5 @@ This code is based on the nice code of  <a href="https://github.com/rowanz/neura
   author    = {He, Tao and Gao, Lianli and Song, Jingkuan and Cai, Jianfei and Li, Yuan-Fang},
   booktitle = {Proceedings of the Twenty-Ninth International Joint Conference on
                Artificial Intelligence, {IJCAI-20}},
-  publisher = {International Joint Conferences on Artificial Intelligence Organization},             
-  editor    = {Christian Bessiere},	
-  pages     = {587--593},
-  year      = {2020},
-  month     = {7},
-  note      = {Main track}
-  doi       = {10.24963/ijcai.2020/82},
-  url       = {https://doi.org/10.24963/ijcai.2020/82},
+  
 }
